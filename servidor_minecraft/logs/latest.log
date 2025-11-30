@@ -1,0 +1,139 @@
+[30Nov2025 01:20:04.200] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[30Nov2025 01:20:04.205] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[30Nov2025 01:20:05.424] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[30Nov2025 01:20:05.482] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/nswn/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[30Nov2025 01:20:05.795] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nswn/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[30Nov2025 01:20:05.798] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nswn/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Nov2025 01:20:05.800] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nswn/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Nov2025 01:20:05.803] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nswn/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Nov2025 01:20:06.071] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[30Nov2025 01:20:08.027] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30Nov2025 01:20:08.103] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[30Nov2025 01:20:08.959] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[30Nov2025 01:20:09.338] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[30Nov2025 01:20:16.179] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[30Nov2025 01:20:16.179] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[30Nov2025 01:20:16.767] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
+[30Nov2025 01:20:16.794] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[30Nov2025 01:20:17.174] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[30Nov2025 01:20:17.195] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 1 plugins
+[30Nov2025 01:20:22.188] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 136 crops
+[30Nov2025 01:20:22.189] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 6 crop tiers
+[30Nov2025 01:20:22.189] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 2 crop types
+[30Nov2025 01:20:22.189] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 55 augments
+[30Nov2025 01:20:22.189] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 20 mob soul types
+[30Nov2025 01:20:22.295] [main/INFO] [journeymap/]: Initializing Packet Registries
+[30Nov2025 01:20:22.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cucumber] Starting version check at https://api.blakesmods.com/v2/mods/cucumber/1.20/updates
+[30Nov2025 01:20:22.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cucumber] Found status: UP_TO_DATE Current: 7.0.16 Target: null
+[30Nov2025 01:20:22.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[30Nov2025 01:20:22.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 3.0.2+mc.1.20.1-forge Target: null
+[30Nov2025 01:20:22.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_power_loader] Starting version check at https://raw.githubusercontent.com/hlysine/create_power_loader/main/update.json
+[30Nov2025 01:20:22.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_power_loader] Found status: UP_TO_DATE Current: 2.0.3-mc1.20.1 Target: null
+[30Nov2025 01:20:22.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Nov2025 01:20:22.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.10
+[30Nov2025 01:20:22.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Starting version check at https://api.modrinth.com/updates/create-jetpack/forge_updates.json
+[30Nov2025 01:20:23.109] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Found status: UP_TO_DATE Current: 4.4.5 Target: null
+[30Nov2025 01:20:23.110] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mysticalagriculture] Starting version check at https://api.blakesmods.com/v2/mods/mysticalagriculture/1.20/updates
+[30Nov2025 01:20:23.163] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mysticalagriculture] Found status: UP_TO_DATE Current: 7.0.23 Target: null
+[30Nov2025 01:20:23.164] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[30Nov2025 01:20:23.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[30Nov2025 01:20:23.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
+[30Nov2025 01:20:23.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: OUTDATED Current: 1.1.7-mc1.20.1 Target: 1.1.10-mc1.20.1
+[30Nov2025 01:20:25.551] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30Nov2025 01:20:27.784] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/nswn/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23131!/assets/.mcassetsroot' uses unexpected schema
+[30Nov2025 01:20:27.784] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/nswn/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23131!/data/.mcassetsroot' uses unexpected schema
+[30Nov2025 01:20:27.887] [main/INFO] [com.simibubi.create.Create/]: Created 201 recipes which will be injected into the game
+[30Nov2025 01:20:27.900] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
+[30Nov2025 01:20:29.755] [Worker-Main-1/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 23.87456 ms
+[30Nov2025 01:20:30.154] [main/INFO] [Cucumber Library/]: Registered 0 recipes in 0 ms
+[30Nov2025 01:20:30.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_catwalk as it's serializer returned null
+[30Nov2025 01:20:30.208] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_stairs as it's serializer returned null
+[30Nov2025 01:20:30.221] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step_from_conversion as it's serializer returned null
+[30Nov2025 01:20:30.256] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe tconstruct:smeltery/alloys/molten_pewter as it's serializer returned null
+[30Nov2025 01:20:30.264] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_beams as it's serializer returned null
+[30Nov2025 01:20:30.297] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_gate as it's serializer returned null
+[30Nov2025 01:20:30.311] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block as it's serializer returned null
+[30Nov2025 01:20:30.312] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_board as it's serializer returned null
+[30Nov2025 01:20:30.315] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_steps as it's serializer returned null
+[30Nov2025 01:20:30.322] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence as it's serializer returned null
+[30Nov2025 01:20:30.328] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_beam as it's serializer returned null
+[30Nov2025 01:20:30.344] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_wall as it's serializer returned null
+[30Nov2025 01:20:30.350] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step as it's serializer returned null
+[30Nov2025 01:20:30.362] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_box as it's serializer returned null
+[30Nov2025 01:20:30.363] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab as it's serializer returned null
+[30Nov2025 01:20:30.379] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_panels as it's serializer returned null
+[30Nov2025 01:20:30.391] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block_from_slabs as it's serializer returned null
+[30Nov2025 01:20:30.401] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 41 recipes
+[30Nov2025 01:20:30.520] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2993 advancements
+[30Nov2025 01:20:30.530] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 56 materials in 7.313601 ms
+[30Nov2025 01:20:30.534] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 9 material tags for 40 materials in 4.457435 ms
+[30Nov2025 01:20:30.546] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 412 stats loaded for 69 materials in 11.283487 ms
+[30Nov2025 01:20:30.558] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 229 traits loaded for 69 materials in 12.252664 ms
+[30Nov2025 01:20:30.573] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 25 dynamic modifiers in 1.138825 ms
+[30Nov2025 01:20:30.630] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 154 dynamic modifiers and 4 modifier redirects in 56.573383 ms
+[30Nov2025 01:20:30.635] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 42 modifier tags for 141 modifiers in 5.908782 ms
+[30Nov2025 01:20:30.636] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 0.771248 ms
+[30Nov2025 01:20:30.641] [main/INFO] [tconstruct/]: Loaded 46 spilling fluids in 3.885537 ms
+[30Nov2025 01:20:30.653] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 11.270853 ms
+[30Nov2025 01:20:30.659] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 6.178565 ms
+[30Nov2025 01:20:32.678] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 2 ms
+[30Nov2025 01:20:32.680] [main/INFO] [Mystical Agriculture/]: Recipe ingredient caching done in 1 ms
+[30Nov2025 01:20:32.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[30Nov2025 01:20:32.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Nov2025 01:20:32.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30Nov2025 01:20:32.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Nov2025 01:20:33.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Nov2025 01:20:33.030] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30Nov2025 01:20:33.108] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30Nov2025 01:20:33.109] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30Nov2025 01:20:33.109] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30Nov2025 01:20:33.109] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30Nov2025 01:20:33.138] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Nov2025 01:20:33.139] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Nov2025 01:20:33.140] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Nov2025 01:20:33.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30Nov2025 01:20:36.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Nov2025 01:20:38.359] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Nov2025 01:20:38.396] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Nov2025 01:20:38.419] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Nov2025 01:20:38.427] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Nov2025 01:20:38.433] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Nov2025 01:20:38.615] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Nov2025 01:20:39.113] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Nov2025 01:20:39.610] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[30Nov2025 01:20:40.110] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[30Nov2025 01:20:40.525] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4417 ms
+[30Nov2025 01:20:40.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.403s)! For help, type "help"
+[30Nov2025 01:20:40.571] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Nov2025 01:20:40.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Nov2025 01:20:40.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give<--[HERE]
+[30Nov2025 01:23:05.760] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c66249d[id=<null>,name=KILLERSAM282,properties={},legacy=false] (/127.21.100.94:45313) lost connection: Disconnected
+[30Nov2025 01:24:20.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KILLERSAM282[/127.21.100.94:60439] logged in with entity id 4 at (444.03985102644805, 72.0, -492.75349642504784)
+[30Nov2025 01:24:20.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KILLERSAM282 joined the game
+[30Nov2025 01:28:49.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RenatoCea[/127.245.172.239:35441] logged in with entity id 2160 at (496.69999998807907, 72.0, -549.5210739150333)
+[30Nov2025 01:28:49.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RenatoCea joined the game
+[30Nov2025 01:44:36.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KILLERSAM282 has reached the goal [Swimming with the Striders]
+[30Nov2025 01:48:44.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KILLERSAM282 has made the advancement [Cover Me with Diamonds]
+[30Nov2025 01:50:18.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[30Nov2025 01:51:07.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RenatoCea moved wrongly!
+[30Nov2025 01:51:27.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KILLERSAM282 fell from a high place
+[30Nov2025 01:58:01.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RenatoCea moved wrongly!
+[30Nov2025 01:58:22.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RenatoCea moved wrongly!
+[30Nov2025 01:59:04.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RenatoCea moved wrongly!
+[30Nov2025 01:59:07.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RenatoCea moved wrongly!
+[30Nov2025 01:59:25.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RenatoCea moved wrongly!
+[30Nov2025 02:05:14.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KILLERSAM282 tried to swim in lava
+[30Nov2025 02:05:50.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RenatoCea suffocated in a wall
+[30Nov2025 02:12:01.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RenatoCea moved wrongly!
+[30Nov2025 02:14:16.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RenatoCea moved wrongly!
+[30Nov2025 02:24:50.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KILLERSAM282 was slain by RenatoCea
+[30Nov2025 02:25:04.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RenatoCea was slain by KILLERSAM282
+[30Nov2025 02:27:31.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KILLERSAM282 was slain by RenatoCea
+[30Nov2025 02:40:49.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RenatoCea lost connection: Disconnected
+[30Nov2025 02:40:49.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RenatoCea left the game
+[30Nov2025 02:41:05.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RenatoCea[/127.245.172.239:53483] logged in with entity id 43382 at (487.10551395255544, 79.0, -485.1780980990495)
+[30Nov2025 02:41:05.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RenatoCea joined the game
+[30Nov2025 03:01:47.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KILLERSAM282 moved wrongly!
+[30Nov2025 03:11:05.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KILLERSAM282 lost connection: Disconnected
+[30Nov2025 03:11:05.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KILLERSAM282 left the game
+[30Nov2025 03:32:57.165] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity create_connected:kinetic_bridge_destination @ BlockPos{x=448, y=74, z=-472} state Block{minecraft:air} invalid for ticking:
